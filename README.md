@@ -7,8 +7,8 @@ This project integrates the Iyzico payment system with CodeIgniter 4, allowing u
 
 ## Gereksinimler / Requirements
 
-- PHP 7.4 ve üzeri / PHP 7.4 or above
-- CodeIgniter 4
+- PHP 8.1 ve üzeri / PHP 8.1 or above
+- CodeIgniter 4.5.5
 - Composer
 - İyzico PHP SDK / Iyzico PHP SDK
 
